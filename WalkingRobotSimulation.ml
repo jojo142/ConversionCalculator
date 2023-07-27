@@ -12,7 +12,7 @@
    We will keep track of the current position of the robot and its direction (north, east, south, or west). 
    We will also maintain a set of obstacles for efficient collision detection.
 *)
-
+(*bug fixed*)
 
 
 type point = int * int
